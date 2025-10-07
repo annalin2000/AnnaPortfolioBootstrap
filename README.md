@@ -1,4 +1,4 @@
-# Anna Lin – Portfolio (Bootstrap) ##
+## Anna Lin – Portfolio (Bootstrap) ##
 
 This is a personal portfolio website built with Bootstrap 4.5, showcasing my background, projects, and contact information. It is a migration of my Week 1 HTML/CSS portfolio into a more scalable and responsive design using Bootstrap’s grid system and prebuilt components. In this version, I also integrated a small jQuery UI Accordion within the “About” section to demonstrate interactivity and organize additional content neatly.
 
